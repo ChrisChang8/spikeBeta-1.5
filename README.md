@@ -9,8 +9,8 @@ Spike GUI is a user-friendly overlay designed for Valorant players, providing an
 ## Features
 - 🌸 **Resolution Requirements:** 1920x1080.
 - 🌸 **Valorant MUST be in 'Windowed Fullscreen' mode.**
-- 🌸 **Adjust Timer Position:** Modify the 'window_position.txt' file to set the (x, y) coordinates.
-- 🌸 **Automatic Timer Reset:** The timer won’t stop if the spike is defused early, but it will automatically reset for the next plant.
+- 🌸 **Move Toggle:** Press 'ctrl' + 'alt' simultaneously 
+
 
 ## Installation
 1. Download the repository and extract the files.
@@ -18,13 +18,10 @@ Spike GUI is a user-friendly overlay designed for Valorant players, providing an
 3. Ensure Valorant is running in 'Windowed Fullscreen' mode.
 4. Enjoy your game with the overlay active!
 
-## Usage
-1. **Start the timer** when you plant the spike.
-2. **Automatic Reset:** The timer will reset automatically for the next plant, even if the spike is defused early.
 
 ## Notes
 - 🐾 Keep this application open while playing.
-- For any issues or feature requests, feel free to DM 'baconchris' on Discord.
+- Timer will reset if the spike isn't detected after 6s, or when timer hits 0!
 
 ## Contributing
 We welcome contributions to improve Spike GUI! Feel free to fork the repository and submit a pull request.
