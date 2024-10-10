@@ -1,10 +1,10 @@
-# Spike GUI 🌟
+# Autonomous Valorant Screener 🌟
 
 ## DEMO
 [Watch the Demo](https://www.youtube.com/watch?v=Imwu5P7TJQg)
 
 ## Description
-Spike GUI is a user-friendly overlay designed for Valorant players, providing an intuitive timer for spike plants that enhances in-game awareness. 
+User-friendly overlay designed for Valorant players, providing an intuitive timer for spike plants that enhances in-game awareness. 
 
 ## Features
 - 🌸 **Resolution Requirements:** 1920x1080.
@@ -17,12 +17,9 @@ Spike GUI is a user-friendly overlay designed for Valorant players, providing an
 3. Ensure Valorant is running in 'Windowed Fullscreen' mode.
 4. Enjoy your game with the overlay active!
 
-## Usage
-1. **Starts the timer** when you plant the spike.
-
 ## Notes
 - 🐾 Keep this application open while playing.
-- For any issues or feature requests, feel free to DM 'baconchris' on Discord.
+- Timer will reset if the spike isn't detected after 6s, or when timer hits 0!
 
 ## Contributing
 We welcome contributions to improve Spike GUI! Feel free to fork the repository and submit a pull request.
